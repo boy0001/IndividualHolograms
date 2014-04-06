@@ -1,0 +1,9 @@
+name: IndividualHolograms
+main: com.empcraft.individualholograms.IndividualHolograms
+version: 0.0.1
+author: Empire92
+website: www.empcraft.com
+depend: [Vault,ProtocolLib,HoloAPI]
+commands:
+   ih:
+      description: Individual Holograms commands.
